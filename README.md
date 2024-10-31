@@ -1,0 +1,6 @@
+# Jogo da Cobrinha 02
+_**Detalhes do jogo e como jogar:**_ O nosso Jogo da Cobrinha foi inspirado em versões anteriores de jogos ja existentes. Nele, o jogador controla a cobrinha, que deve comer as frutinhas sem colidir nas bordas da tela ou em si mesma. À medida que a cobrinha se alimenta, ela cresce de tamanho e a velocidade do jogo aumenta, elevando a dificuldade. Nessa versão do jogo, o jogador poderá escolher a cor de sua cobrinha. 
+_**Inspirações e créditos:**_ A inspiração principal foi o Jogo da Cobrinha do google e o jogo Slither.io. Chegamos no código final a partir da edição e modificação de códigos já existentes, assim como com a ajuda de Inteligências Artificiais e o próprio GitHub.
+_**Alterações feitas:**_ Para chegar no resultado final do jogo, foi misturado elementos de códigos anteriores, testes, códigos prontos, sugestões de IAs, entre outras coisas. Logo, foram muitas modificações na escrita do código, junto com elementos visuais: fundo do jogo, cor da cobrinha, junto com a opção de troca de cor, troca da cor da maçã e elementos de escrita no jogo (letra, tamanho e cor). 
+_**Autores e colaboradores**_: Arthur Schulz Fortunato, Luíza Lange Silveira e Victhoria da Silva de Melo. 
+_**Perfis do GitHub**_: @kuzkuz2006, @luhlange e @victhoriamelo.
