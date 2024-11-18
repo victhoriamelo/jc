@@ -4,3 +4,4 @@ _**Inspirações e créditos:**_ A inspiração principal foi o Jogo da Cobrinha
 _**Alterações feitas:**_ Para chegar no resultado final do jogo, foi misturado elementos de códigos anteriores, testes, códigos prontos, sugestões de IAs, entre outras coisas. Logo, foram muitas modificações na escrita do código, junto com elementos visuais: fundo do jogo, cor da cobrinha, junto com a opção de troca de cor, troca da cor da maçã e elementos de escrita no jogo (letra, tamanho e cor). 
 _**Autores e colaboradores**_: Arthur Schulz Fortunato, Luíza Lange Silveira e Victhoria da Silva de Melo. 
 _**Perfis do GitHub**_: @kuzkuz2006, @luhlange e @victhoriamelo.
+_**Gravação da tela do game (programação + jogo funcionando):**_ https://drive.google.com/file/d/18svXjISNL6jtQZZ-S6DtTRuOu31cwkJ_/view?usp=sharing
